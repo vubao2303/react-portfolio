@@ -1,0 +1,45 @@
+[
+  {
+  "id": 1,
+  "name": "Dinner",
+  "image": "./pictures/dinnertime.png",
+  "deployed": "https://vubao2303.github.io/Project-1/",
+  "github":"https://github.com/vubao2303/Project-1"
+},
+{
+  "id": 2,
+  "name": "PartyX",
+  "image": "./pictures/partyX.png",
+  "deployed": "https://party-x.herokuapp.com/",
+  "github":"https://github.com/vubao2303/Project-2"
+},
+{
+  "id": 3,
+  "name": "Roses",
+  "image": "./pictures/Roses.png",
+  "deployed": "https://vubao2303.github.io/twice-you-die/",
+  "github":"https://github.com/vubao2303/twice-you-die"
+},
+{
+  "id":4,
+  "name": "Fitness Tracker",
+  "image": "./pictures/mongoFitness.png",
+  "deployed": "https://github.com/vubao2303/excercise-tracking",
+  "github":"https://b-workout.herokuapp.com/?id=60332a1195b3680015132e88"
+},
+{
+  "id": 5,
+  "name": "Weather Dashboard",
+  "image": "./pictures/weather.png",
+  "deployed": "https://vubao2303.github.io/weather-dashboard/",
+  "github":"https://github.com/vubao2303/weather-dashboard"
+},
+{
+  "id": 6,
+  "name": "Note Taker",
+  "image": "./pictures/note.png",
+  "deployed": "https://glacial-harbor-07122.herokuapp.com/",
+  "github":"https://github.com/vubao2303/express-note-taker"
+}
+
+]
