@@ -3,8 +3,13 @@ import "./style.css";
 import work from "./work2.jpg"
 import play from "./play2.jpg"
 
+// const style = {
+//   image:hover: {
+//   opacity: 0.2
+//   }
+// };
+// style={style.image}
 
-{/* <img src={require('./work2.jpg')} /> */}
 function Home() {
   return (
     <div className="container">
@@ -12,9 +17,11 @@ function Home() {
         <div className="col">
           <div className="container">
             <a href="projects.html" target="_blank">
-              <img src={work} className="image" className="mx-auto d-block img-fluid img-hover"
+              <img src={work} className="image"  className="mx-auto d-block img-fluid img-hover"
                 alt="work-hard"/>
             </a>
+
+            
             <div className="middle">
               <h2>WORK DELIGENTLY </h2>
               <button id="projects-btn" className=" button  button-rounded-hover">MY WORK </button>

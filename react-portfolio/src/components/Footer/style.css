@@ -1,6 +1,6 @@
 footer {
-  position: sticky;
-  position: -webkit-sticky; 
+  position: absolute;
+  /* position: -webkit-sticky;  */
   position: sticky;
   bottom: 0px;
   background:rgb(150, 196, 205);

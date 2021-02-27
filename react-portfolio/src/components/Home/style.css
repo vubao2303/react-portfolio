@@ -59,7 +59,7 @@
 }
 
 .image {
-  opacity: 1;
+  opacity: 10;
   display: block;
   width: 100%;
   height: auto;
@@ -84,5 +84,5 @@
 }
 
 .container:hover .middle {
-  opacity: 1;
+  opacity: 10;
 }
