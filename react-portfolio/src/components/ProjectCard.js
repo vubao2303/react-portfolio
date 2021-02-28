@@ -11,7 +11,7 @@ function PictureCard(props) {
               <div className="container project-1" >
                 <a href={props.deployed} target="_blank">
                   <img src={props.image} className="image"
-                    className="mx-auto d-block img-fluid img-hover" alt="kissing-booth" />
+                    className="mx-auto d-block img-fluid img-hover" alt="project-image" />
                 </a>
                 <div className="middle">
                   <a target="_blank" href={props.deployed} >

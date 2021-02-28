@@ -19,10 +19,7 @@ function App() {
             <Route exact path="/" component={Main} />
             <Route exact path="/projects" component={Project} />
             <Route exact path="/aboutme" component={AboutMe} />
-            {/* <Route exact path="/home" component={Home} />
-            <Route exact path="/favorites" component={FavoritesList} />
-            <Route exact path="/posts/:id" component={Detail} />
-            <Route component={NoMatch} /> */}
+            <Route exact path="/react-portfolio" component={Main} />
           </Switch>
           <Footer/>
         {/* </StoreProvider> */}

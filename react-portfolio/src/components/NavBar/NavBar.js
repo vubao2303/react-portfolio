@@ -4,7 +4,7 @@ import "./style.css";
 function NavBar() {
   return (
     <nav className="navbar navbar-light bg-light justify-content-md-between justify-content-center" id="top-nav">
-  <a className="navbar-brand text-center" href="/" id="b-name">
+  <a className="navbar-brand text-center" href="/react-portfolio" id="b-name">
     <h2 >B Tram Vu</h2>
   </a>
   <ul className="nav flex-nowrap" id="top-nav-links">
