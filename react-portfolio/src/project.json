@@ -19,8 +19,8 @@
     "id": 3,
     "name": "Fitness Tracker",
     "image": "./pictures/mongoFitness.png",
-    "deployed": "https://github.com/vubao2303/excercise-tracking",
-    "github":"https://b-workout.herokuapp.com/?id=60332a1195b3680015132e88",
+    "deployed": "https://b-workout.herokuapp.com/?id=60332a1195b3680015132e88",
+    "github":"https://github.com/vubao2303/excercise-tracking",
     "description": "An Excerise Tracker application that is built using MongoDB. The application allows a user to track their workout routine by adding exercise types, resistance or cardio, followed by data for each including sets, reps, distance, etc. The user can add multiple exercises to one workout, and their statistics will be generated showing the total duration, total reps, total sets. Data for the last 7 workouts will also be displayed which provide another visual representation in addition to their physique to track progress over time."
     
   },
