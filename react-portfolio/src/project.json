@@ -1,45 +1,60 @@
 [
   {
-  "id": 1,
-  "name": "Dinner",
-  "image": "./pictures/dinnertime.png",
-  "deployed": "https://vubao2303.github.io/Project-1/",
-  "github":"https://github.com/vubao2303/Project-1"
-},
-{
-  "id": 2,
-  "name": "PartyX",
-  "image": "./pictures/partyX.png",
-  "deployed": "https://party-x.herokuapp.com/",
-  "github":"https://github.com/vubao2303/Project-2"
-},
-{
-  "id": 3,
-  "name": "Roses",
-  "image": "./pictures/Roses.png",
-  "deployed": "https://vubao2303.github.io/twice-you-die/",
-  "github":"https://github.com/vubao2303/twice-you-die"
-},
-{
-  "id":4,
-  "name": "Fitness Tracker",
-  "image": "./pictures/mongoFitness.png",
-  "deployed": "https://github.com/vubao2303/excercise-tracking",
-  "github":"https://b-workout.herokuapp.com/?id=60332a1195b3680015132e88"
-},
-{
-  "id": 5,
-  "name": "Weather Dashboard",
-  "image": "./pictures/weather.png",
-  "deployed": "https://vubao2303.github.io/weather-dashboard/",
-  "github":"https://github.com/vubao2303/weather-dashboard"
-},
-{
-  "id": 6,
-  "name": "Note Taker",
-  "image": "./pictures/note.png",
-  "deployed": "https://glacial-harbor-07122.herokuapp.com/",
-  "github":"https://github.com/vubao2303/express-note-taker"
-}
-
+    "id": 1,
+    "name": "Empolyees Directory ",
+    "image": "./pictures/employees.png",
+    "deployed": "https://vubao2303.github.io/employee-directory/",
+    "github":"https://github.com/vubao2303/employee-directory",
+    "description": "Using react to create an employee directory. The page is populated with employees' images, names, phone numbers, email, and day of birth. The search bar allows user to look up employees name and when the name column is clicked, employees' names will be sort in alphabetical order."
+  },
+  {
+    "id": 2,
+    "name": "Roses",
+    "image": "./pictures/Rose.png",
+    "deployed": "https://vubao2303.github.io/twice-you-die/",
+    "github":"https://github.com/vubao2303/twice-you-die",
+    "description": "If you clicked twice, you die! This is a react based brain teaser web application that allows you test your memorization. The object of the game is to click on only one image once. If you repeat guesses, the poistion thorns from the roses kill you and the score is reset to 0."
+  },
+  {
+    "id": 3,
+    "name": "Fitness Tracker",
+    "image": "./pictures/mongoFitness.png",
+    "deployed": "https://github.com/vubao2303/excercise-tracking",
+    "github":"https://b-workout.herokuapp.com/?id=60332a1195b3680015132e88",
+    "description": "An Excerise Tracker application that is built using MongoDB. The application allows a user to track their workout routine by adding exercise types, resistance or cardio, followed by data for each including sets, reps, distance, etc. The user can add multiple exercises to one workout, and their statistics will be generated showing the total duration, total reps, total sets. Data for the last 7 workouts will also be displayed which provide another visual representation in addition to their physique to track progress over time."
+    
+  },
+  {
+    "id":4,
+    "name": "Kissing Booth",
+    "image": "./pictures/Kiss.png",
+    "deployed": "https://big-burger-kissingbooth.herokuapp.com/",
+    "github":"https://github.com/vubao2303/big-burger",
+    "description": "You are in for a treat! It is Covid-season so our speak-easy-kissing booth is hiding as a burger shop. Using MySQL, Node, Express, Handlebars and ORM to create a Kissing Booth app where you can add a name of someone you want to kiss, kiss that person again, or delete that person's name after you are done kissing them. Let's mingle!"
+  },
+  {
+    "id": 5,
+    "name": "PartyX",
+    "image": "./pictures/partyX.png",
+    "deployed": "https://party-x.herokuapp.com/",
+    "github":"https://github.com/vubao2303/Project-2",
+    "description": "This full stack application built using MVC framework is a major milestone in the progression of four fledgling developers. Together we created an application that allows a user to create an account and login to an account dashboard. The dashboard will show the user a list of events that they can attend, view the upcomming events, and create events of their own."
+  },
+  {
+    "id": 6,
+    "name": "Note Taker",
+    "image": "./pictures/note.png",
+    "deployed": "https://glacial-harbor-07122.herokuapp.com/",
+    "github":"https://github.com/vubao2303/express-note-taker",
+    "description": "Using express to build a note taker page.The web app will begin to be hosted on localhost:2303. The note taker interface is displayed where the user can view previously saved notes, create new notes and delete notes."
+  },
+  {
+    "id": 7,
+    "name": "Dinner ",
+    "image": "./pictures/dinnertime.png",
+    "deployed": "https://vubao2303.github.io/Project-1/",
+    "github":"https://github.com/vubao2303/Project-1",
+    "description": "As a person who needs to eat everyday, I would like some help with cooking or deciding what to eat. I want to have many choices of recipes, and when I can't decide on what to eat I will have a chance to pick a random recipe. On the day I don't feel like cooking or following recipes, I want to go out to eat, or in this COVID-19 season, get some to-go food from a restaurant near me. There are buttons for me to click to choose the top ten restaurants in my city."
+  }
+  
 ]

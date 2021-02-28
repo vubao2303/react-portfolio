@@ -10,3 +10,14 @@ footer {
 .footer-link {
   padding:0.5em;
 }
+
+
+footer {
+  position: sticky;
+  position: -webkit-sticky; 
+  position: sticky;
+  bottom: 0px;
+  background:rgb(150, 196, 205);
+  height:60px; 
+  font-size: 20px;
+}

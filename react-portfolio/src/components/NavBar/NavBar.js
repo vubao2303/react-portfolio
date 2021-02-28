@@ -10,12 +10,12 @@ function NavBar() {
   <ul className="nav flex-nowrap" id="top-nav-links">
   
     <li className="nav-item">
-      <a id="linked" href="https://www.linkedin.com/in/b-tram-vu/"><i
+      <a target="_blank" id="linked" href="https://www.linkedin.com/in/b-tram-vu/"><i
           className="fa fa-linkedin fa_custom fa-3x social"></i></a>
     </li>
    
     <li className="nav-item">
-      <a href="https://github.com/vubao2303"><i id="social-em" className="fab fa-github-square fa-3x social"></i></a>
+      <a target="_blank" href="https://github.com/vubao2303"><i id="social-em" className="fab fa-github-square fa-3x social"></i></a>
     </li>
   </ul>
 </nav>

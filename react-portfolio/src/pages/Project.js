@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import NavBar from "../components/NavBar/NavBar"
+import Header from "../components/Header/Header"
 import Footer from "../components/Footer/Footer"
 import ProjectCard from "../components/ProjectCard"
 // import '../../index.css';
@@ -22,6 +22,7 @@ function Project() {
 
   return (
     <div className="Project">
+      <Header />
       {/* // i am gonne need a  */}
       <>
         {Projects.map((pro, index) => {
@@ -31,8 +32,10 @@ function Project() {
               name={pro.name}
               id={pro.id}
               image={pro.image}
-              deployed={pro.deploy}
+              deployed={pro.deployed}
               github={pro.github}
+              description={pro.description}
+
             />
           )
         })}
