@@ -1,5 +1,6 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+// import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import Main from "./pages/Main";
 import Project from "./pages/Project";
 import AboutMe from "./pages/AboutMe";
@@ -11,8 +12,9 @@ import Footer from "./components/Footer/Footer"
 
 function App() {
   return (
-    <Router>
+    <Router basename="/">
       <div>
+      {/* <BrowserRouter basename="/repo-name" /> */}
         {/* <StoreProvider> */}
           <NavBar />
           <Switch>
