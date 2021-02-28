@@ -9,7 +9,7 @@ function Me() {
       <div className="row align-items-center">
         <div className="col">
           <div className="container">
-            <img src={B} alt="B's potrait" className="image" />   
+            <img src={B} alt="B's potrait" className="b-image" />   
           </div>
         </div>
         <div className="col">
