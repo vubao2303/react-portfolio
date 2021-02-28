@@ -1,5 +1,5 @@
 # react-portfolio
-react-portfolio
+Update portfolio using React. This project has many components that appears on multiple pages. Projects will be populated using one project card that renders images, github link, description, and linkedIn link using inofrmation from packakge.json. React Router used path to display homepage, aboutme page and project page. 
 
 ![Demo Gif]()
 
@@ -7,7 +7,7 @@ react-portfolio
 
 ## Deployed-Link
 
-[Deployed Link]()  
+[Deployed Link](https://vubao2303.github.io/react-portfolio/)  
 
 # Table of Contents 
 
