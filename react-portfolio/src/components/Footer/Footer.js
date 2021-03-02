@@ -6,7 +6,7 @@ function Footer() {
   return (
     <footer>
     <div className="text-center">
-      <a className="footer-link" href="mailto:bbvut@gmail.com" className="contact-info">Contact Me</a>
+      <a target="_blank" className="footer-link" href="mailto:bbvut@gmail.com" className="contact-info">Contact Me</a>
       <a className="footer-link"
       href={Resume} download>
         Résumé
